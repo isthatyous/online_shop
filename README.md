@@ -193,6 +193,21 @@ For any questions or further information, please contact:
 - **Email:** [iemafzalhassan@gmail.com](mailto:iemafzalhassan@gmail.com) , [amitabhdevops2024@gmail.com](mailto:iemafzalhassan@gmail.com) , [deveshagent@gmail.com](mailto:deveshagent@gmail.com)
 - [Join Discord Server](https://discord.gg/4JtuMhMcjn)
 
+## Project Screenshots
+
+### ⚙️ CI/CD Pipeline
+![Pipeline](images/pipeline.png)
+
+### 🖥️ SonarQube
+![Architecture](images/argocd.png)
+
+### 🖥️ Argocd
+![Architecture](images/argocd.png)
+
+### 📸 App Output
+![Output Screen](images/onlineshop_screen.png)
+
+
 ---
 
 Good luck for the hackathon
