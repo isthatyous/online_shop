@@ -205,7 +205,7 @@ For any questions or further information, please contact:
 ![Architecture](images/argocd.png)
 
 ### 📸 App Output
-![Output Screen](images/onlineshop_screen.png)
+![Output Screen](images/online_shop_screen.png)
 
 
 ---
