@@ -199,7 +199,7 @@ For any questions or further information, please contact:
 ![Pipeline](images/pipeline.png)
 
 ### 🖥️ SonarQube
-![Architecture](images/argocd.png)
+![Architecture](images/sonarqube.png)
 
 ### 🖥️ Argocd
 ![Architecture](images/argocd.png)
